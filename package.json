@@ -3,7 +3,7 @@
 },
   "name": "nav-1",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "repository": "git@github.com:simpson007/nav-1.git",
   "author": "simpson <13951719485@163.com>",
   "license": "MIT"
