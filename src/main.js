@@ -5,8 +5,8 @@ const xObject = JSON.parse(x)
 const hasMap = xObject || [
     { logo: 'https://github.com/favicon.ico', url: 'https://github.com' },
     { logo: 'https://zhihu.com/favicon.ico', url: 'https://zhihu.com' },
-    { logo: 'https://cnodejs.org/favicon.ico', url: 'cnodejs.org' },
-    { logo: 'https://cn.vuejs.org/favicon.ico', url: 'vuejs.org' },
+    { logo: 'https://cnodejs.org/favicon.ico', url: 'https://cnodejs.org' },
+    { logo: 'https://cn.vuejs.org/favicon.ico', url: 'https://cn.vuejs.org' },
 ]
 const xhr = new XMLHttpRequest()
 const simplifyUrl = (url) => {

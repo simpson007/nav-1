@@ -11,10 +11,10 @@
     url: 'https://zhihu.com'
   }, {
     logo: 'https://cnodejs.org/favicon.ico',
-    url: 'cnodejs.org'
+    url: 'https://cnodejs.org'
   }, {
     logo: 'https://cn.vuejs.org/favicon.ico',
-    url: 'vuejs.org'
+    url: 'https://cn.vuejs.org'
   }];
   const $16b5ad875ae907e2f7f79e7b8fe116cc$var$xhr = new XMLHttpRequest();
   const $16b5ad875ae907e2f7f79e7b8fe116cc$var$simplifyUrl = url => {
@@ -84,4 +84,4 @@
   });
 })();
 
-//# sourceMappingURL=index.0af8faa8.js.map
+//# sourceMappingURL=index.0ad49b7d.js.map
